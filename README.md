@@ -1,5 +1,5 @@
 # Ex03 To-Do List using JavaScript
-## Date:
+## Date: 03-11-2026
 
 ## AIM
 To create a To-do Application with all features using JavaScript.
@@ -608,8 +608,10 @@ document.addEventListener('DOMContentLoaded', () => {
 ```
 
 ## OUTPUT
-![alt text](image-1.png)
-![alt text](image.png)
+
+![alt text](todo/image-1.png)
+
+![alt text](todo/image.png)
 
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
