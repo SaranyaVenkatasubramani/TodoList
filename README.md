@@ -609,9 +609,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 ## OUTPUT
 
-![alt text](todo/image-1.png)
+![alt text](image-1.png)
 
-![alt text](todo/image.png)
-
+![alt text](image.png)
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
